@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KinCarta.Checkout", "KinCarta.Checkout.csproj", "{F71B2D98-C37F-48B4-B616-92AAA32FB888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinCarta.Tests", "..\KinCarta.Tests\KinCarta.Tests.csproj", "{CFDDDA87-FEA8-4F8E-B80C-84F90CF183DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71B2D98-C37F-48B4-B616-92AAA32FB888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71B2D98-C37F-48B4-B616-92AAA32FB888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71B2D98-C37F-48B4-B616-92AAA32FB888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71B2D98-C37F-48B4-B616-92AAA32FB888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDDDA87-FEA8-4F8E-B80C-84F90CF183DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDDDA87-FEA8-4F8E-B80C-84F90CF183DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDDDA87-FEA8-4F8E-B80C-84F90CF183DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDDDA87-FEA8-4F8E-B80C-84F90CF183DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFBC4098-00EB-4264-BB22-197C7D557347}
+	EndGlobalSection
+EndGlobal
