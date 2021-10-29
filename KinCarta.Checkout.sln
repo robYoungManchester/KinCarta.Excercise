@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KinCarta.Checkout", "KinCarta.Checkout.csproj", "{F71B2D98-C37F-48B4-B616-92AAA32FB888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KinCarta.Checkout", "KinCarta.Checkout\KinCarta.Checkout.csproj", "{F71B2D98-C37F-48B4-B616-92AAA32FB888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinCarta.Tests", "..\KinCarta.Tests\KinCarta.Tests.csproj", "{CFDDDA87-FEA8-4F8E-B80C-84F90CF183DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinCarta.Tests", "KinCarta.Tests\KinCarta.Tests.csproj", "{CFDDDA87-FEA8-4F8E-B80C-84F90CF183DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
